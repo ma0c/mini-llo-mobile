@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mini-llo</string>
+
+    <!--LOGIN-->
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_login">Log In</string>
+    <string name="login_failure_message">Login Failure </string>
+    <string name="title_activity_board_detail">BoardDetail</string>
+
+
+    <!--BOARD-->
+    <string name="board_title">Boards</string>
+
+    <!--IDEAS-->
+    <string name="idea_new_idea">New idea</string>
+    <string name="idea_save">Save</string>
+</resources>
